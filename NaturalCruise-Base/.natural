@@ -3,7 +3,7 @@
     <ConnectionProperties>
         <Hostname>adanatvm105</Hostname>
         <Portid>2700</Portid>
-        <SessionParameters>parm=NDVPARM webio=on</SessionParameters>
+        <SessionParameters>parm=NDVPARM webio=on etid=' '</SessionParameters>
         <EnvironmentName>adanatvm105-2700</EnvironmentName>
         <SecurityServer>false</SecurityServer>
     </ConnectionProperties>
@@ -58,7 +58,7 @@
         <SteplibNSV>SYSTEM</SteplibNSV>
         <SteplibExtensions>1;SYSEXDDM[-1,-1];</SteplibExtensions>
         <LibrariesSteplibs/>
-        <privateMode>false</privateMode>
+        <privateMode>true</privateMode>
         <Fuser>(22,20)</Fuser>
     </EnvironmentProperties>
     <AivVariables/>
