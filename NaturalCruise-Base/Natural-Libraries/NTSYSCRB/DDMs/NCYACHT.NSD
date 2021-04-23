@@ -25,5 +25,5 @@ T L DB Name                              F Leng  S D Remark
   1 DK HEAD-ROOM                         P  3.2  N 
 *      headroom in saloon in meters 
   1 DL BUNKS                             P  3.0  N 
-*      number of bunks ... 
+*      number of bunks ... ... 
 ******DDM OUTPUT TERMINATED****** 
